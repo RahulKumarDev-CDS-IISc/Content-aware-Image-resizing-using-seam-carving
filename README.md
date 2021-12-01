@@ -24,7 +24,7 @@ This is the implementation from scratch of seam carving in Image resizing and ob
 * * *
 ### Requirements
 - Python 3.7 or above
-- cv2
+- openCV
 - scikit image
 - matplotlib
 - numpy
